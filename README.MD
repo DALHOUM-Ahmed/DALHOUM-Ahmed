@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer Passionate about Blockchain & Cryptocurrency</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dalhoum-ahmed" alt="dalhoum-ahmed" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DALHOUM-Ahmed&theme=darkhub&row=1&column=7" alt="dalhoum-ahmed" /></a> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@dalhoum.co/](https://medium.com/@dalhoum.co/)
 
