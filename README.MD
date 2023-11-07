@@ -1,4 +1,4 @@
-![Banner](URL_of_image)
+![Banner](https://github.com/DALHOUM-Ahmed/DALHOUM-Ahmed/blob/main/blockchain.jpg)
 <h1 align="center">Hi 👋, I'm Ahmed Dalhoum</h1>
 <h3 align="center">A Software Engineer Passionate about Blockchain & Cryptocurrency</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
