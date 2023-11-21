@@ -10,8 +10,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_nbdoMrftMZUhBn_YMT4T5zuY7i4WdHW/view?usp=sharing](https://drive.google.com/file/d/1_nbdoMrftMZUhBn_YMT4T5zuY7i4WdHW/view?usp=sharing)
 
-<h3 align="left">⏳ **Average 30 Hours of Coding per Week**</h3>
-<h3 align="left"> 🌐 Visitors Count: **50K**</h3>
+<h3 align="left"> 🌐 Visitors Count: 50K</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
