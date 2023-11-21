@@ -10,11 +10,13 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 46 Public Repositories 
  > 
-> 🔑 10 Private Repositories 
+> 🔑 22 Private Repositories 
  > 
-**I'm a Night 🦉** 
+
+
+
 
 ```text
 🌞 Morning                1030 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
