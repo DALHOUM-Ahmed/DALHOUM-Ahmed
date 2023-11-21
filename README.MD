@@ -2,7 +2,50 @@
 <h3 align="center">A Software Engineer Passionate about Blockchain & Cryptocurrency</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DALHOUM-Ahmed&theme=darkhub&row=1&column=7" alt="dalhoum-ahmed" /></a> </p>
+**🐱 My GitHub Data** 
+
+> 📦 382.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,073 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1030 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+🌆 Daytime                3874 commits        █████████░░░░░░░░░░░░░░░░   37.62 % 
+🌃 Evening                3609 commits        █████████░░░░░░░░░░░░░░░░   35.05 % 
+🌙 Night                  1784 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1160 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Tuesday                  1717 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Wednesday                2080 commits        █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+Thursday                 2503 commits        ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+Friday                   1766 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Saturday                 734 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Sunday                   337 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+```
+
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               16 repos            ███████░░░░░░░░░░░░░░░░░░   32.63 % 
+Solidity                 14 repos            ███░░░░░░░░░░░░░░░░░░░░░░   26.11 % 
+Python                   12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   9.70 % 
+Javascript                9 repo             ██░░░░░░░░░░░░░░░░░░░░░░░   8.85 % 
+```
+
+
+
 
 - 📝 I regularly write articles on [https://medium.com/@dalhoum.co/](https://medium.com/@dalhoum.co/)
 
