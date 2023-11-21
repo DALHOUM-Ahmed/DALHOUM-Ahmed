@@ -56,6 +56,4 @@ Sunday                   337 commits         █░░░░░░░░░░�
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dalhoum-ahmed&show_icons=true&locale=en&layout=compact" alt="dalhoum-ahmed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dalhoum-ahmed&show_icons=true&locale=en" alt="dalhoum-ahmed" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dalhoum-ahmed&" alt="dalhoum-ahmed" /></p>
