@@ -12,7 +12,7 @@
  > 
 > 📜 46 Public Repositories 
  > 
-> 🔑 22 Private Repositories 
+> 🔑 23 Private Repositories 
  > 
 
 <br><br><br>
